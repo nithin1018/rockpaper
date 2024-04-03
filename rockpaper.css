@@ -1,0 +1,19 @@
+/* rockpaper.css */
+
+/* Add your CSS code here to style your game */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(25,25,25);
+    color: white;
+}
+.move-icon {
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+    border-radius: 50px;
+    padding: 0;
+    margin: 0;
+
+    
+}
+
